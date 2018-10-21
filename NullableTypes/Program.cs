@@ -7,6 +7,12 @@ namespace NullableTypes
         static void Main(string[] args)
         {
             DateTime? date = null;
+            Console.WriteLine("Get Value or Default: " + date.GetValueOrDefault());
+            Console.WriteLine("Has Value: " + date.HasValue);
+
+
+
+            DateTime date2 = date ?? DateTime.Today;
         }
     }
 }

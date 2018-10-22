@@ -11,7 +11,7 @@ namespace NullableTypes
             Console.WriteLine("Has Value: " + date.HasValue);
 
 
-
+            // short way to check if date is null
             DateTime date2 = date ?? DateTime.Today;
         }
     }

@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLinq", "MoreLinq\MoreLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypes", "NullableTypes\NullableTypes.csproj", "{1C777E3F-DDDA-4CCD-9C98-733177F01F9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{8ABB633C-AD71-464F-A4BA-3A0A33BD86D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1C777E3F-DDDA-4CCD-9C98-733177F01F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C777E3F-DDDA-4CCD-9C98-733177F01F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C777E3F-DDDA-4CCD-9C98-733177F01F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABB633C-AD71-464F-A4BA-3A0A33BD86D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABB633C-AD71-464F-A4BA-3A0A33BD86D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABB633C-AD71-464F-A4BA-3A0A33BD86D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABB633C-AD71-464F-A4BA-3A0A33BD86D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
